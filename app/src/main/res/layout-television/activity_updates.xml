@@ -32,7 +32,7 @@
                 android:paddingBottom="16dp"
                 android:textColor="?android:attr/textColorPrimary"
                 android:textSize="56sp"
-                tools:text="crDroid\n20" />
+                tools:text="AlphaDroid\n18.1" />
 
             <TextView
                 android:id="@+id/header_build_version"
